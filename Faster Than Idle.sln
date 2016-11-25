@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{614D691E-5497-6BA5-6C17-FF312EF00A5C}") = "Faster Than Idle", "Assembly-CSharp.csproj", "{6E4C525D-56E0-CD1C-1507-BC2C6212FEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4C525D-56E0-CD1C-1507-BC2C6212FEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4C525D-56E0-CD1C-1507-BC2C6212FEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4C525D-56E0-CD1C-1507-BC2C6212FEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4C525D-56E0-CD1C-1507-BC2C6212FEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

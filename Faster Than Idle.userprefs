@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShipStats.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="5" Column="28" />
+      <File FileName="Assets/Scripts/EnemyEvent.cs" Line="38" Column="85" />
+      <File FileName="Assets/Scripts/BigAsteroidBehavior.cs" Line="62" Column="13" />
+      <File FileName="Assets/Scripts/ShipStats.cs" Line="21" Column="20" />
+      <File FileName="Assets/Scripts/ShipBehavior.cs" Line="70" Column="2" />
+      <File FileName="Assets/AutoProjectile.cs" Line="16" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
